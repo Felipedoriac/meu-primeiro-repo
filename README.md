@@ -1,2 +1,2 @@
 # meu-primeiro-repo
-Primeiro código feito
+Primeiro código feito de jogo simples com botão restart
